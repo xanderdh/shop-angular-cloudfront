@@ -1,4 +1,4 @@
-upd 2
+upd 3
 # Shop Angular Cloudfront
 
 Angular version: ~12.
